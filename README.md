@@ -2,6 +2,14 @@
 
 ![Sequence Diagram](./sequence.png)
 
+## Table of Contents
+
+- [1. Preparing Instance](#1-preparing-instance)
+- [2. Preparing KMS](#2-preparing-kms)
+- [3. Installing Nitro Enclave CLI](#3-installing-nitro-enclave-cli)
+- [4. Preparing Repository](#4-preparing-repository)
+- [5. Testing](#5-testing)
+
 ## 1. Preparing Instance
 
 |                      |                   |
