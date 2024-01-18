@@ -17,6 +17,7 @@
 | **Operating System** | Amazon Linux 2023 |
 | **Instance Type**    | EC2 `m5.xlarge`   |
 | **Storage**          | EBS `gp3` 20GB    |
+| **Nitro Enclave**    | `Enabled`         |
 
 ## 2. Preparing KMS
 
