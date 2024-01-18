@@ -2,4 +2,4 @@
 
 source .env
 
-ssh $USERNAME@$EC2_DNS
+ssh $USERNAME@$INSTANCE
